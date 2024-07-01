@@ -1,0 +1,17 @@
+h1{
+
+    background-color: red;
+}
+
+.background{
+
+    background-image: url("image.avif");
+    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    background-position: 10px;
+    background-attachment: fixed;
+    height: 1000px;
+    width: 1000px;
+
+
+}
