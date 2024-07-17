@@ -1,0 +1,18 @@
+* {
+    font-family: 'Courier New'
+}
+
+h1 {
+    color: #1b74e4;
+}
+
+.search2 {
+
+    background-color: black;
+    color: white;
+}
+
+.userlogin, .userregister {
+
+    background-color: aqua;
+}
